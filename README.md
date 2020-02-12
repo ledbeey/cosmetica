@@ -1,0 +1,3 @@
+# cosmetica
+nuevo proyecto de cosmetica para subir 
+este es el archivo readme en donde explico todo sobre este programa...
